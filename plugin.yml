@@ -1,0 +1,5 @@
+name: ExtraApi
+description: ExtraApi
+main: me.ep.extraapi.ExtraApi
+version: 1.0
+authors: [ExtraPlays]
